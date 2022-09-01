@@ -1,0 +1,43 @@
+/*=-=-=-=-=-=-= USER =-=-=-=-=-=-=*/
+
+{
+    "userid" : "63108b889522b6e4509e9d84",
+    "userName" : "enrollee1",
+    "firstName" : "Michael",
+    "lastName" : "Smith",
+    "email" : "ms123@yxz.com",
+    "password" : "admin1234",
+    "mobileNumber" : "1234567890",
+    "isAdmin" : "false",
+    "enrollments" : [ 
+        {
+            "id" : "1",
+            "courseId" : "63108c4d9522b6e4509e9daa",
+            "courseName" : "prco123",
+            "isPaid" : "Yes",
+            "dateEnrolled" : "9/23/22"
+        }
+    ]
+}
+
+/* 2 */
+
+{
+    "userid" : "63108b889522b6e4509e9d87",
+    "userName" : "enrollee2",
+    "firstName" : "Jane",
+    "lastName" : "Smith",
+    "email" : "js123@yxz.com",
+    "password" : "admin1234",
+    "mobileNumber" : "1234567890",
+    "isAdmin" : "false",
+    "enrollments" : [ 
+        {
+            "id" : "2",
+            "courseId" : "63108c4d9522b6e4509e9dad",
+            "courseName" : "prco234",
+            "isPaid" : "Yes",
+            "dateEnrolled" : "9/26/22"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+/*=-=-=-=-=-=-= COURSE =-=-=-=-=-=-=*/
+
+
+{
+    "courseid" : "63108c4d9522b6e4509e9daa",
+    "courseName" : "prco123",
+    "description" : "SIA2",
+    "price" : "1000",
+    "slots" : "50",
+    "schedule" : "MTWTHF",
+    "instructor" : "Thonie Fernandez",
+    "isActive" : "true",
+    "enrollees" : [ 
+        {
+            "id" : "1",
+            "userid" : "63108b889522b6e4509e9d84",
+            "username" : "enrollee1",
+            "isPaid" : "Yes",
+            "dateEnrolled" : "9/23/22"
+        }
+    ]
+}
+
+/* 2 */
+
+{
+    "courseid" : "63108c4d9522b6e4509e9dad",
+    "courseName" : "prco234",
+    "description" : "UR2",
+    "price" : "1000",
+    "slots" : "50",
+    "schedule" : "MTWTHF",
+    "instructor" : "Jenny Hernandez",
+    "isActive" : "true",
+    "enrollees" : [ 
+        {
+            "id" : "2",
+            "userid" : "63108b889522b6e4509e9d87",
+            "username" : "enrollee2",
+            "isPaid" : "Yes",
+            "dateEnrolled" : "9/26/22"
+        }
+    ]
+}
